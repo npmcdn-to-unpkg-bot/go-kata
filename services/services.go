@@ -2,7 +2,7 @@ package services
 
 import (
 	"gopkg.in/mgo.v2"
-	"MyApp/Utilities/helper"
+	"GoApp/Utilities/helper"
 	log "github.com/goinggo/tracelog"
 )
 

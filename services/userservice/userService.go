@@ -3,9 +3,9 @@ package userService
 import (
 	"github.com/kelseyhightower/envconfig"
 	log "github.com/goinggo/tracelog"
-	"MyApp/models"
+	"GoApp/models"
 	"gopkg.in/mgo.v2"
-	"MyApp/services"
+	"GoApp/services"
 )
 
 const MainGoRoutine = "main"

@@ -1,9 +1,9 @@
 package main
 
 import (
-	_ "MyApp/routers"
+	_ "GoApp/routers"
 	"github.com/astaxie/beego"
-	"MyApp/Utilities/helper"
+	"GoApp/Utilities/helper"
 	"github.com/goinggo/tracelog"
 	"os"
 )

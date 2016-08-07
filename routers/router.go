@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"MyApp/controllers"
+	"GoApp/controllers"
 	"github.com/astaxie/beego"
 )
 

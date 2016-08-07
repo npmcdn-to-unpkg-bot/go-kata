@@ -2,8 +2,8 @@ package baseController
 
 import (
 	"github.com/astaxie/beego"
-	"MyApp/services"
-	"MyApp/Utilities/helper"
+	"GoApp/services"
+	"GoApp/Utilities/helper"
 )
 
 type (

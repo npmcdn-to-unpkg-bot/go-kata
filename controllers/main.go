@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	bc "MyApp/controllers/baseController"
-	"MyApp/services/userservice"
+	bc "GoApp/controllers/baseController"
+	"GoApp/services/userservice"
 	"fmt"
 )
 
